@@ -1,0 +1,9 @@
+* {
+    background-color:black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:antiquewhite;
+    margin: auto;
+    width: 50%;
+    border: 3px solid gold;
+    padding: 10px;
+}
